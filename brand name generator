@@ -1,0 +1,19 @@
+print("welcome to brand name generator!")
+input("what is your friend name\n")
+
+print("ok")
+
+# \n = it will tell the answer in a new line
+x = input("what is your city name?\n")
+print("ohh!! I live there too")
+
+y = input ("what is your pet name?\n")
+print("cute")
+
+print("so your brand name can be... ")
+
+print(x +" "+ y)
+
+input("do you like it?")
+print("awesome")
+print ("the end")
